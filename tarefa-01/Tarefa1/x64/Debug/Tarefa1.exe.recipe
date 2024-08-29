@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\bruno\OneDrive\Área de Trabalho\c++\x64\Debug\Tarefa1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\bruno\OneDrive\Área de Trabalho\c++\fragment.glsl</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\bruno\OneDrive\Área de Trabalho\c++\vertex.glsl</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
