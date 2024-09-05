@@ -1,0 +1,6 @@
+﻿  disk.cpp
+D:\COMP-GRAFICA\Tarefa2\Tarefa2\disk.cpp(10,22): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  main.cpp
+D:\COMP-GRAFICA\Tarefa2\Tarefa2\main.cpp(29,16): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+  Gerando Código...
+  Tarefa2.vcxproj -> D:\COMP-GRAFICA\Tarefa2\x64\Debug\Tarefa2.exe
